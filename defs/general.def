@@ -1,0 +1,18 @@
+# Module short name
+MODULEIDNAME       = pslib
+
+# Module version number
+MODULEVERSION      = 1.0.0
+
+# Module release date
+MODULEDATE         = 31/05/2001
+
+# Module long description
+MODULEDESCRIPTION  = Library for dynamically generating PostScript files
+
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
